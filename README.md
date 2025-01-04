@@ -1,6 +1,3 @@
-Here’s the complete content for the GitHub README file, including the problem statement and dataset overview:
-
----
 
 # House Price Prediction Dataset  
 
